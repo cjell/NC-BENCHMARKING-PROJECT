@@ -4,7 +4,7 @@
 
 # Using the repository
 - Before beginning making changes to the code, in your terminal type the command 'git checkout -b nameofbranch'
-- This creates a new branch named whatever you replace 'nameofbranch' with which makes it so that you are editing a copy of the code rather than the pre-existing code itself so when you push to to github both the code from before you edited it and your code will appear.
+- This creates a new branch named whatever you replace 'nameofbranch' with which makes it so that you are editing a copy of the code rather than the pre-existing code itself. So when you push it to github, the code from before you edited it will still be there and your code will appear as a branch of it.
 - Once you have finished what you wanted to do, and want to push it to github, use the commands:
   - 'git add .' (This stages the changes you have made)
   - 'git commit -m "some message like what changes you made"' (Saves your staged changes)
